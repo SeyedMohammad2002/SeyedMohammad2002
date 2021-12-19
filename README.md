@@ -1,6 +1,6 @@
-- 👋 Hi, I’m ُSeyedMohammad Nasiry
+- 👋 Hi, I’m ُSeyedMohammad Nasiri
 - 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
